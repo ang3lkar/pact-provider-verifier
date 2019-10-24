@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem "pact-message", git: "https://github.com/ang3lkar/pact-message"
+gem "pact-message", git: "https://github.com/ang3lkar/pact-message-ruby"
 
 if ENV['X_PACT_DEVELOPMENT']
   gem "pact", path: '../pact'
