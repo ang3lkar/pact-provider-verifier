@@ -1,5 +1,5 @@
 module Pact
   module ProviderVerifier
-    VERSION = "1.24.0"
+    VERSION = "1.24.2"
   end
 end
